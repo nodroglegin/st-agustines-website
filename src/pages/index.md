@@ -2,7 +2,7 @@
 templateKey: index-page
 title: St Augustine's Classical Christian College
 image: /img/liana-mikah-puhj02kohrc-unsplash.jpg
-heading: "St Augustine's "
+heading: Our Subjects
 subheading: Learning enrichment through Classical Christian Education
 mainpitch:
   title: Why St Augustine's
@@ -14,33 +14,20 @@ description: St Augustine's uses an effective tutorial model of small class
   partner with tutors for the development of their child's potential.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/caleb-woods-iobrssvqp28-unsplash.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Canonical Literature. [This is the blurb about canonical literature that
+        explains the content of the subject briefly and why a student should
+        study it]
+    - image: /img/screen-shot-2020-07-12-at-2.56.42-pm.png
+      text: Writing. [This is the blurb about Writing that explains the content of the
+        subject briefly and why a student should study it]
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: Logic. [This is the blurb about Logic that explains the content of the
+        subject briefly and why a student should study it]
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: Rhetoric. [This is the blurb about Rhetoric that explains the content of
+        the subject briefly and why a student should study it]
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
