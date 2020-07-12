@@ -1,21 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: St Augustine's Classical Christian College
+image: /img/liana-mikah-puhj02kohrc-unsplash.jpg
+heading: St Augustine's
+subheading: Learning enrichment through Classical Christian Education
 mainpitch:
-  title: Why Kaldi
+  title: Why St Augustine's
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    The St Augustine's student is one who has been sharpened by a competitive
+    yet community-based culture of scholarship, creativity and achievement.
+description: St Augustine's uses an effective tutorial model of small class
+  sizes. The College integrates learning and family life, allowing parents to
+  partner with tutors for the development of their child's potential.
 intro:
   blurbs:
     - image: /img/coffee.png
