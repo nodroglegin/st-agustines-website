@@ -2,7 +2,7 @@
 templateKey: index-page
 title: St Augustine's Classical Christian College
 image: /img/liana-mikah-puhj02kohrc-unsplash.jpg
-heading: St Augustine's
+heading: "St Augustine's "
 subheading: Learning enrichment through Classical Christian Education
 mainpitch:
   title: Why St Augustine's
