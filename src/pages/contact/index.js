@@ -1,5 +1,5 @@
-import React from 'react'
 import { navigate } from 'gatsby-link'
+import React from 'react'
 import Layout from '../../components/Layout'
 
 function encode(data) {
@@ -39,7 +39,7 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
+              <h1>Contact Us</h1>
               <form
                 name="contact"
                 method="post"
