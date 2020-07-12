@@ -1,10 +1,10 @@
-import React from 'react'
+import { graphql, Link } from 'gatsby'
 import PropTypes from 'prop-types'
-import { Link, graphql } from 'gatsby'
-
-import Layout from '../components/Layout'
-import Features from '../components/Features'
+import React from 'react'
 import BlogRoll from '../components/BlogRoll'
+import Features from '../components/Features'
+import Layout from '../components/Layout'
+
 
 export const IndexPageTemplate = ({
   image,
@@ -90,7 +90,7 @@ export const IndexPageTemplate = ({
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/products">
-                      See all products
+                      See all subjects
                     </Link>
                   </div>
                 </div>
