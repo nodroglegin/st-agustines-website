@@ -15,19 +15,22 @@ description: St Augustine's uses an effective tutorial model of small class
 intro:
   blurbs:
     - image: /img/classics.jpg
-      text: >
-        Canonical Literature. [This is the blurb about canonical literature that
+      heading: Canonical Literature
+      text: This is the blurb about canonical literature that
         explains the content of the subject briefly and why a student should
-        study it]
+        study it
     - image: /img/screen-shot-2020-07-12-at-2.56.42-pm.png
-      text: Writing. [This is the blurb about Writing that explains the content of the
-        subject briefly and why a student should study it]
+      heading: Writing
+      text: This is the blurb about Writing that explains the content of the
+        subject briefly and why a student should study it
     - image: /img/logic.jpg
-      text: Logic. [This is the blurb about Logic that explains the content of the
-        subject briefly and why a student should study it]
+      heading: Logic
+      text: This is the blurb about Logic that explains the content of the
+        subject briefly and why a student should study it
     - image: /img/rhetoric.png
-      text: Rhetoric. [This is the blurb about Rhetoric that explains the content of
-        the subject briefly and why a student should study it]
+      heading: Rhetoric
+      text: This is the blurb about Rhetoric that explains the content of
+        the subject briefly and why a student should study it
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
