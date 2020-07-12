@@ -14,7 +14,7 @@ description: St Augustine's uses an effective tutorial model of small class
   partner with tutors for the development of their child's potential.
 intro:
   blurbs:
-    - image: /img/caleb-woods-iobrssvqp28-unsplash.jpg
+    - image: /img/classics.jpg
       text: >
         Canonical Literature. [This is the blurb about canonical literature that
         explains the content of the subject briefly and why a student should
@@ -22,10 +22,10 @@ intro:
     - image: /img/screen-shot-2020-07-12-at-2.56.42-pm.png
       text: Writing. [This is the blurb about Writing that explains the content of the
         subject briefly and why a student should study it]
-    - image: /img/tutorials.png
+    - image: /img/logic.jpg
       text: Logic. [This is the blurb about Logic that explains the content of the
         subject briefly and why a student should study it]
-    - image: /img/meeting-space.png
+    - image: /img/rhetoric.png
       text: Rhetoric. [This is the blurb about Rhetoric that explains the content of
         the subject briefly and why a student should study it]
   heading: What we offer
