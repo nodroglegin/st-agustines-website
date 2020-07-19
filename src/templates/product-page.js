@@ -1,11 +1,11 @@
-import React from 'react'
-import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
-import Layout from '../components/Layout'
+import PropTypes from 'prop-types'
+import React from 'react'
 import Features from '../components/Features'
-import Testimonials from '../components/Testimonials'
-import Pricing from '../components/Pricing'
+import Layout from '../components/Layout'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import Pricing from '../components/Pricing'
+import Testimonials from '../components/Testimonials'
 
 export const ProductPageTemplate = ({
   image,
@@ -181,6 +181,7 @@ export const productPageQuery = graphql`
                 }
               }
             }
+            heading
             text
           }
           heading
