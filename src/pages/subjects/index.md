@@ -1,43 +1,26 @@
 ---
 templateKey: 'product-page'
-path: /products
-title: Our Coffee
+path: /subjects
+title: Our Subjects
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Subjects worth learning
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Studying the Classics is the best way for students to not only improve their use of English but their knowledge of the modern world - preparing them for leadership and influence. Beginning with the basics such as Grammar, Writing and Reading; students progress to studying Latin, Classical Greek, Advanced Essay Writing, Logic and Rhetoric. 
 intro:
   blurbs:
     - image: /img/coffee.png
+      subject: Logic 1
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Logic 1. Are there “laws of thought” just as surely as there is a law of gravity? The answer is a resounding “yes!” In this course we will learn how to reason in an orderly and consistent fashion. Students will master the rules that govern the thinking process. There will be a particular emphasis on applying these rules to the field of Christian apologetics. The goal is to know better how to love God with all our minds. Students will study forms of correct thinking, using traditional Aristotelian tools such as formal proofs and truth tables. Students will also become familiar with the common logical fallacies to avoid.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Rhetoric I introduces students to the concepts and practical principles of the ancient art of rhetoric, the third part of the classical Trivium. Drawn largely from Aristotle’s Rhetoric and Quintilian’s Institutio Oratoria, the course trains students in using and applying the classical rhetorical canons to a variety of spoken and written assignments. In particular, students will learn how to think rhetorically as both producers and critics of persuasive communication, guided by knowledge of the rhetorical process, kairos and stasis theory, the common topics, and proofs.  Students will also continue to develop their skill in constructing well-organized essays and speeches, advancing their range of stylistic expression, preparation and delivery. Underlying this course is the assumption that excellent speech and writing is part of what brings glory to God and part of what brings us to enjoy Him.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        This introduction to Academic Writing focuses on formal academic writing for high school students new to composition or needing more confidence and practice. Students practice the trajectory of the writing process from prewriting, drafting, revising, and editing to final submission by mastering the skills of the first three canons of rhetoric: invention, arrangement, and elocution. Not only do students gain greater proficiency in the art of writing well-crafted sentences, coherent paragraphs, and well-structured analytical and argumentative essays, they also practice strategic reading, summarizing, paraphrasing, and embedding quotes. In addition, they learn to properly document both print and online sources using correct referencing. Students use both fiction and non-fiction sources to practice core reading strategies. These sources also provide the content for student writing assignments.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Latin is alive and lively in Latin 1with the renowned Cambridge Latin programme! Students will explore how an inflected language works by studying five noun declensions, four verb conjugations, adjectives, pronouns, and common expressions. Emphasis is given to Latin vocabulary and English derivatives. Students will build translation skills while exploring Roman culture and studying people and practices from antiquity by reading passages in both Latin and English, which are further brought to life by the teacher. Students will be encouraged to see elements of Latin and Roman civilization throughout the world today, inspiring them to integrate Latin with their literature and history lessons.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
