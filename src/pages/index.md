@@ -9,28 +9,31 @@ mainpitch:
   description: >
     The St Augustine's student is one who has been sharpened by a competitive
     yet community-based culture of scholarship, creativity and achievement.
-description: St Augustine's uses an effective tutorial model of small class
-  sizes. The College integrates learning and family life, allowing parents to
-  partner with tutors for the development of their child's potential.
+description: St Augustine's uses an effective tutorial model of small online
+  class sizes. The College integrates learning and family life, allowing parents
+  to partner with tutors for the development of their child's potential.
 intro:
   blurbs:
     - image: /img/classics.jpg
-      heading: Canonical Literature
-      text: This is the blurb about canonical literature that
-        explains the content of the subject briefly and why a student should
-        study it
+      heading: The Great Conversation
+      text: Engage with some of the greatest minds from throughout the history of
+        Western civilisation by studying some of their classic works of
+        literature.
     - image: /img/screen-shot-2020-07-12-at-2.56.42-pm.png
       heading: Writing
-      text: This is the blurb about Writing that explains the content of the
-        subject briefly and why a student should study it
+      text: Grow in writing proficiency and master the first three skills of rhetoric
+        - invention, arrangement and elocution - while also learning to read
+        strategically, summarise, paraphrase and embed quotes.
     - image: /img/logic.jpg
       heading: Logic
-      text: This is the blurb about Logic that explains the content of the
-        subject briefly and why a student should study it
+      text: Are there “laws of thought” just as surely as there is a law of gravity?
+        The answer is a resounding “yes!” In this course we will learn how to
+        reason in an orderly and consistent fashion
     - image: /img/rhetoric.png
       heading: Rhetoric
-      text: This is the blurb about Rhetoric that explains the content of
-        the subject briefly and why a student should study it
+      text: Students will be introduced to the concepts and practical principles of
+        the ancient art of rhetoric, learning how to think rhetorically as both
+        producers and critics of persuasive communication.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
