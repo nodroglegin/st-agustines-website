@@ -77,17 +77,17 @@ intro:
 main:
   heading: The Great Conversation
   description: >+
-    The overall purpose of the course is to introduce Australian students to the
-    Great Conversation of Western Civilisation. By reading and discussing the
-    key works of the past several thousand years it is our hope that your
-    students will be better informed to live wise and purposeful lives from a
-    Christian perspective. In addition to developing thinking and leadership
-    skills students will typically improve their vocabulary, presentation and
-    writing expertise. Thus the course suits many middle school aged children
-    who are looking to improve their understanding of logic as well as literacy
-    skills. St Augustine’s tutors will select both Primary and Secondary Books
-    from the Veritas curriculum, choosing the most popular classics to make the
-    course more accessible to a new generation of potential classics students.
+    The overall purpose of the course is to introduce students to the Great
+    Conversation of Western Civilisation. By reading and discussing the key
+    works of the past several thousand years it is our hope that your students
+    will be better informed to live wise and purposeful lives from a Christian
+    perspective. In addition to developing thinking and leadership skills
+    students will typically improve their vocabulary, presentation and writing
+    expertise. Thus the course suits many middle school aged children who are
+    looking to improve their understanding of logic as well as literacy skills.
+    St Augustine’s tutors will select both Primary and Secondary Books from the
+    Veritas curriculum, choosing the most popular classics to make the course
+    more accessible to a new generation of potential classics students.
 
   image1:
     alt: A close-up of a paper filter filled with ground coffee
